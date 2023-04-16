@@ -8,7 +8,6 @@
   - LiveData - An observable data holder class.
   - ViewBinding - A feature that allows you to more easily write code that interacts with views.
   - SwipeRefreshLayout - Implement the swipe-to-refresh UI pattern.
-- The Room persistence - Provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.
 - [Retrofit2 & OkHttp3](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM.
 - [Dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [Glide](https://github.com/bumptech/glide), [GlidePalette](https://github.com/florent37/GlidePalette) - Loading images from network.
